@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+# View App Live at : https://sameer07contactlist.netlify.app/
+
+# Contact List App:
+This is Contact List using React Js. It allows a user to create and save new contacts, display contacts and delete contacts.
+
+## Features :
+
+- Add Contacts
+- Edit a Contact
+- Delete a Contact
+
+## Technology used :
+
+- HTML
+- CSS
+- JavaScript
+- React Js
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
