@@ -2,6 +2,7 @@
   "name": "contactlist",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://samerr07.github.io/ContactList",
   
   "dependencies": {
     "@redux-devtools/extension": "^3.2.3",
